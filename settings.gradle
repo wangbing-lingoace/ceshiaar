@@ -1,0 +1,3 @@
+rootProject.name = "javaCeshi"
+include ':app'
+include ':aarDepend:zego'

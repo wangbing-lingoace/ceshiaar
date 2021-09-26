@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="../../../../../Library/androiddev/gradle/gradle-6.5/caches/transforms-3/12f437cacb974ad126f4822cd7537f9b/transformed/jetified-lingoAceLiveRoom-debug/res/layout/item_chatview.xml" value="0.2046875" />
+        <entry key="../../../../../Library/androiddev/gradle/gradle-6.5/caches/transforms-3/eb2e39e3dfddb337d7008b0e6ab3cdf5/transformed/jetified-lingoAceLiveRoom-release/res/layout/item_chatview.xml" value="0.1" />
+        <entry key="../../../../../Library/androiddev/gradle/gradle-7.1.1/caches/transforms-3/3efabc5457a6615f0812cd0f2090e28b/transformed/jetified-lingoAceLiveRoom-release/res/layout/item_chatview.xml" value="0.1015625" />
+        <entry key="../../../../../Library/androiddev/gradle/gradle-7.1.1/caches/transforms-3/db0c1a8ad9d2ece8b98da07c7a555062/transformed/jetified-lingoAceLiveRoom-release/res/layout/item_chatview.xml" value="0.15260416666666668" />
+        <entry key="../../../../../Library/androiddev/gradle/gradle-7.1.1/caches/transforms-3/eb2e39e3dfddb337d7008b0e6ab3cdf5/transformed/jetified-lingoAceLiveRoom-release/res/layout/item_chatview.xml" value="0.1" />
+        <entry key="app/src/main/res/drawable/ic_launcher_background.xml" value="0.38125" />
+        <entry key="app/src/main/res/layout/activity_main.xml" value="0.3619791666666667" />
+        <entry key="app/src/main/res/layout/activity_main2.xml" value="0.37604166666666666" />
+        <entry key="app/src/main/res/layout/activity_second.xml" value="0.16914861480038884" />
+        <entry key="app/src/main/res/layout/activity_third.xml" value="0.5" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+  <component name="VisualizationToolProject">
+    <option name="state">
+      <ProjectState>
+        <option name="scale" value="0.1015625" />
+      </ProjectState>
+    </option>
+  </component>
+</project>
